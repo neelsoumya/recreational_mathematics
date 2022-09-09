@@ -19,6 +19,11 @@ https://ia801004.us.archive.org/17/items/martingardnerthecolossalbookofmathemati
 http://jnsilva.ludicum.org/HMR13_14/536.pdf
 
 https://mathoverflow.net/questions/152580/recreational-mathematics-where-to-search
+
+https://github.com/EdV2/SomaCubeAndConnectionGraphs
+
+https://snap.berkeley.edu/examples
+
 Manuscript and citation
 
 Soumya Banerjee, "Ramanujan Cab Numbers: A Recreational Mathematics Activity," Journal of Humanistic Mathematics, Volume 12 Issue 2 (July 2022), pages 503-517.
