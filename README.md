@@ -24,6 +24,8 @@ https://github.com/EdV2/SomaCubeAndConnectionGraphs
 
 https://snap.berkeley.edu/examples
 
+http://www.science.smith.edu/~jhenle/pleasingmath/
+
 Manuscript and citation
 
 Soumya Banerjee, "Ramanujan Cab Numbers: A Recreational Mathematics Activity," Journal of Humanistic Mathematics, Volume 12 Issue 2 (July 2022), pages 503-517.
