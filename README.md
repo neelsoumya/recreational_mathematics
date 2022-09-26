@@ -30,6 +30,10 @@ https://twitter.com/petitsmotifs
 
 https://cheapbotsdonequick.com/source/thetinygallery
 
+return of the grazing goat in n dimensions
+
+https://www.maa.org/sites/default/files/0746834234602.di020714.02p0045q.pdf
+
 Manuscript and citation
 
 Soumya Banerjee, "Ramanujan Cab Numbers: A Recreational Mathematics Activity," Journal of Humanistic Mathematics, Volume 12 Issue 2 (July 2022), pages 503-517.
